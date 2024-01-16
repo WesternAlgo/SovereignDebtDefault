@@ -1,0 +1,154 @@
+,Name,Code
+0,Algeria,DZ
+1,Angola,AO
+2,Argentina,AR
+3,Armenia,AM
+4,Australia,AU
+5,Austria,AT
+6,Azerbaijan,AZ
+7,Bahrain,BH
+8,Bangladesh,BD
+9,Belarus,BY
+10,Belgium,BE
+11,Benin,BJ
+12,Bolivia,BO
+13,Brazil,BR
+14,Brunei Darussalam,BN
+15,Bulgaria,BG
+16,Burkina Faso,BF
+17,Cambodia,KH
+18,Cameroon,CM
+19,Canada,CA
+20,Chad,TD
+21,Chile,CL
+22,"Hong Kong, China",HK
+23,China,CN
+24,Colombia,CO
+25,"Congo, the Democratic Republic of the",CD
+26,Congo,CG
+27,Cote d`Ivoire,CI
+28,Croatia,HR
+29,Cyprus,CY
+30,Czech Republic,CZ
+31,Denmark,DK
+32,Dominican Republic,DO
+33,Ecuador,EC
+34,Egypt,EG
+35,Equatorial Guinea,GQ
+36,Estonia,EE
+37,Ethiopia,ET
+38,Euro area (Member States and Institutions of the Euro Area) changing composition,U2
+39,Finland,FI
+40,France,FR
+41,Gabon,GA
+42,Georgia,GE
+43,Germany,DE
+44,Ghana,GH
+45,Greece,GR
+46,Guinea,GN
+47,Haiti,HT
+48,Honduras,HN
+49,Hungary,HU
+50,Iceland,IS
+51,India,IN
+52,Indonesia,ID
+53,"Iran, Islamic Republic of",IR
+54,Iraq,IQ
+55,Ireland,IE
+56,Israel,IL
+57,Italy,IT
+58,Japan,JP
+59,Jordan,JO
+60,Kazakhstan,KZ
+61,Kenya,KE
+62,"Korea, Republic of",KR
+63,Kuwait,KW
+64,Kyrgyzstan,KG
+65,Lao People`s Democratic Republic,LA
+66,Latvia,LV
+67,Libya,LY
+68,Lithuania,LT
+69,Luxembourg,LU
+70,Madagascar,MG
+71,Malaysia,MY
+72,Mali,ML
+73,Malta,MT
+74,Mexico,MX
+75,"Moldova, Republic of",MD
+76,Mongolia,MN
+77,Morocco,MA
+78,Mozambique,MZ
+79,Myanmar,MM
+80,Nepal,NP
+81,Netherlands,NL
+82,New Zealand,NZ
+83,Nicaragua,NI
+84,Niger,NE
+85,Nigeria,NG
+86,Norway,NO
+87,Oman,OM
+88,Pakistan,PK
+89,Papua New Guinea,PG
+90,Peru,PE
+91,Philippines,PH
+92,Poland,PL
+93,Portugal,PT
+94,Qatar,QA
+95,Romania,RO
+96,Russian Federation,RU
+97,Rwanda,RW
+98,Saudi Arabia,SA
+99,Senegal,SN
+100,Singapore,SG
+101,Slovakia,SK
+102,Slovenia,SI
+103,Somalia,SO
+104,South Africa,ZA
+105,Spain,ES
+106,Sri Lanka,LK
+107,Sudan,SD
+108,Sweden,SE
+109,Switzerland,CH
+110,Syrian Arab Republic,SY
+111,Tajikistan,TJ
+112,"Tanzania, United Republic of",TZ
+113,Thailand,TH
+114,Timor-Leste,TL
+115,Trinidad and Tobago,TT
+116,Turkey,TR
+117,Turkmenistan,TM
+118,Uganda,UG
+119,Ukraine,UA
+120,United Arab Emirates,AE
+121,United Kingdom,GB
+122,United States,US
+123,Uruguay,UY
+124,Uzbekistan,UZ
+125,"Venezuela, Bolivarian Republic",VE
+126,Viet Nam,VN
+127,Yemen,YE
+128,Zambia,ZM
+129,Zimbabwe,ZW
+130,Advanced Economies (IMF),XR29
+131,Advanced Economies G-20 (IMF),XR23
+132,All Countries,1C_ALLC
+133,All Countries and Country Groups,1C_ALL
+134,All Country Groups,1C_ALLG
+135,Emerging Economies G-20 (IMF),XR24
+136,Emerging Market and Middle-Income Africa,1C_EMMA
+137,Emerging Asia (IMF),XS2
+138,Emerging Market and Middle-Income Economies,1C_035
+139,Emerging Europe,1C_EMEUR
+140,Emerging Market Latin America,1C_EMFLAT
+141,Emerging Market Middle East and North Africa,1C_EMMENA
+142,Emerging Market and Middle-Income Middle East and North Africa and Pakistan,1C_EMMENAP
+143,"G20 (Argentina, Australia, Brazil, Canada, China, European Union, France, Germany, India,Indonesia, Italy, Japan, Mexico, Russia, Saudi Arabia, South Africa, South Korea, Turkey, United Kingdom, United States)",R22
+144,Major Advanced Economies - G7,R23
+145,Low-Income Asia,1C_230
+146,Low-Income Countries,1C_229
+147,Low-Income Latin America,1C_231
+148,Low-Income Others,1C_234
+149,Low-Income Sub-Saharan Africa,1C_232
+150,Low-Income Oil Producers,1C_235
+151,Metadata by Country,1C_Metadata_by_Country
+152,Oil producers,1C_Oil_producers
