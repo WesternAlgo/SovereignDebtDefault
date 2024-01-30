@@ -1,0 +1,27 @@
+,0
+GNLB__Z,Cash surplus (+) /deficit (-)
+G21__Z,Compensation of employees
+G2M__Z,Expenditure cash flows
+G2__Z,Expense cash flows
+G26__Z,Grant payments
+G13__Z,Grant receipts
+G24__Z,Interest payments
+G32_FX2,Net acquisition of financial assets other than cash
+GNFB__Z,Net cash inflow from financing activities
+GGOB__Z,Net cash inflow from operating activities
+G31_N11G,Net cash outflow: investment in fixed assets
+G31_N12N,Net cash outflow: investment in inventories
+G31_NG,Net cash outflow: investment in nonfinancial assets
+G31_N2N,Net cash outflow: investment in nonproduced assets
+G31_N13N,Net cash outflow: investment in valuables
+G32_F2,Net change in the stock of cash
+G33_F,Net incurrence of liabilities
+G28__Z,Other payments
+G14__Z,Other receipts
+GPB__Z,Primary cash surplus (+) /deficit (-)
+G22__Z,Purchases of goods and services
+G1__Z,Revenue cash flows
+G27__Z,Social benefit payments
+G12__Z,Social contributions
+G25__Z,Subsidy payments
+G11__Z,Tax receipts

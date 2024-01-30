@@ -1,0 +1,85 @@
+,0
+W0_S1_G1151,Customs & other import duties
+W0_S1_G1412,Dividend revenue
+W0_S1_G1142,Excise taxes
+W0_S1_G1141,General taxes on goods & services
+W0_S1_G1M13A,Grants in cash
+W0_S1_G1M13B,Grants in kind
+W0_S1_G13,Grants revenue
+W1_S13_G13,Grants revenue from foreign govts
+W1_S13_G13K,Grants revenue from foreign govts: capital
+W1_S13_G13C,Grants revenue from foreign govts: current
+1A_S1_G13,Grants revenue from int orgs
+1A_S1_G13K,Grants revenue from int orgs: capital
+1A_S1_G13C,Grants revenue from int orgs: current
+W2_S13_G13,Grants revenue from other gen govt
+W2_S13_G13K,Grants revenue from other gen govt: capital
+W2_S13_G13C,Grants revenue from other gen govt: current
+W0_S1_G1223,Imputed social contributions revenue
+W0_S1_G1411,Interest revenue
+W1_S1_G1411,Interest revenue from nonresidents
+W2_S13_G1411,Interest revenue from other gen govt
+W2_S1W_G1411,Interest revenue from residents other than gen govt
+W0_S1_G1136,Other recurrent taxes on property
+W0_S1_G14,Other revenue
+W0_S1_G122,Other social contributions revenue
+W0_S1_G1221,Other social contributions revenue: employees
+W0_S1_G1222,Other social contributions revenue: employers
+W0_S1_G116,Other taxes n.e.c.
+W0_S1_G1146,Other taxes on goods & services
+W0_S1_G1156,Other taxes on int trade & transactions
+W0_S1_G1414,Property income from investment income disbursements
+W0_S1_G141,Property income revenue
+W0_S1_G1131,Recurrent taxes on immovable property
+W0_S1_G1132,Recurrent taxes on net wealth
+W0_S1_G1416,Reinvested earnings on FDI
+W0_S1_G1415,Rent revenue
+W0_S1_G1,Revenue
+W0_S1_G1452,Revenue from  NI & SGS: capital claims
+W0_S1_G14513,Revenue from  NI & SGS: current claims
+W0_S1_G14512,Revenue from  NI & SGS: fees
+W0_S1_G14511,Revenue from  NI & SGS: premiums
+W0_S1_G145,"Revenue from  NI & SGS: premiums, fees & claims"
+W0_S1_G1451,"Revenue from  NI & SGS: premiums, fees & current claims"
+W0_S1_G1422,Revenue from administrative fees
+W0_S1_G143,"Revenue from fines, penalties & forfeits"
+W0_S1_G1424,Revenue from imputed sales of goods & services
+W0_S1_G14412,Revenue from other current transfers: not subsidies
+W0_S1_G14411,Revenue from other current transfers: subsidies
+W0_S1_G144,Revenue from other transfers
+W00_S1W_G1442,Revenue from other transfers: capital
+W0_S1_G1441,Revenue from other transfers: current
+W0_S1_G142,Revenue from sales of goods & services
+W0_S1_G1421,Revenue from sales of market establishments
+W0_S1_G1423,Revenue from sales of nonmarket establishments
+W0_S1_G11412,Sales taxes
+W0_S1_G1213,Self/non-employed social contributions revenue
+W0_S1_G12,Social contributions
+W0_S1_G121,Social security contributions revenue
+W0_S1_G1212,Social security contributions revenue: employers
+W0_S1_G1211,Social security contributions: revenue employees
+W0_S1_G11,Tax revenue
+W0_S1_G1135,Taxes in the form of capital levies on property
+W0_S1_G1143,Taxes in the form of profits of fiscal monopolies
+W0_S1_G1133,"Taxes on estate, inheritance, & gifts"
+W0_S1_G1154,Taxes on exchange profits
+W0_S1_G1152,Taxes on exports
+W0_S1_G11414,Taxes on financial & capital transactions
+W0_S1_G1155,Taxes on foreign exchange 
+W0_S1_G114,Taxes on goods & services
+W0_S1_G111,"Taxes on income, profits, & capital gains"
+W0_S1_G1112,"Taxes on income, profits, & capital gains: corporations"
+W0_S1_G1111,"Taxes on income, profits, & capital gains: individuals"
+W0_S1_G1113,"Taxes on income, profits, & capital gains: other"
+W0_S1_G115,Taxes on int trade & transactions
+W0_S1_G112,Taxes on payroll & workforce
+W0_S1_G1153,Taxes on profits of export/import monopolies
+W0_S1_G113,Taxes on property
+W0_S1_G1144,Taxes on specific services
+W0_S1_G1145,Taxes on use of/permission to use goods
+W0_S1_G11452,Taxes on use of/permission to use goods: other
+W0_S1_G11451,Taxes on use of/permission to use goods: vehicles
+W0_S1_G11413,Turnover & general taxes on goods & services
+W0_S1_G1214,Unallocable social contributions revenue
+W0_S1_G11411,Value-added taxes
+W0_S1_G1413,Withdrawals of income from quasi-corporations

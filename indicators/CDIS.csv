@@ -1,0 +1,273 @@
+,0
+AF,Afghanistan
+AL,Albania
+DZ,Algeria
+AS,American Samoa
+AD,Andorra
+AO,Angola
+AI,Anguilla
+AG,Antigua and Barbuda
+AR,Argentina
+AM,Armenia
+AW,Aruba
+AU,Australia
+AT,Austria
+AZ,Azerbaijan
+BS,Bahamas
+BH,Bahrain
+BD,Bangladesh
+BB,Barbados
+BY,Belarus
+BE,Belgium
+BZ,Belize
+BJ,Benin
+BM,Bermuda
+BT,Bhutan
+BO,Bolivia
+BQ,"Bonaire, Saint Eustatius and Saba"
+BA,Bosnia and Herzegovina
+BW,Botswana
+BV,Bouvet Island
+BR,Brazil
+IO,British Indian Ocean territory
+VG,"Virgin Islands, British"
+BN,Brunei Darussalam
+BG,Bulgaria
+BF,Burkina Faso
+BI,Burundi
+CV,Cabo Verde
+KH,Cambodia
+CM,Cameroon
+CA,Canada
+KY,Cayman Islands
+CF,Central African Republic
+S59,Central & South Asia not allocated
+TD,Chad
+CL,Chile
+HK,Hong Kong
+MO,Macao
+CN,China
+CX,Christmas Island
+CC,Cocos (Keeling) Islands
+CO,Colombia
+KM,Comoros
+CD,"Congo, the Democratic Republic of the"
+CG,Congo
+CK,Cook Islands
+CR,Costa Rica
+CI,Cote d`Ivoire
+HR,Croatia
+CU,Cuba
+1C_355,Curacao & St. Maarten
+CW,Curacao
+CY,Cyprus
+CZ,Czech Republic
+DK,Denmark
+DJ,Djibouti
+DM,Dominica
+DO,Dominican Republic
+S29,Eastern Asia not allocated
+S359,Gulf Arabian Countries not allocated
+EC,Ecuador
+EG,Egypt
+SV,El Salvador
+GQ,Equatorial Guinea
+ER,Eritrea
+EE,Estonia
+SZ,Eswatini
+ET,Ethiopia
+E19,Europe not allocated
+FK,Falkland Islands (Malvinas)
+FO,Faroe Islands
+FJ,Fiji
+FI,Finland
+FR,France
+PF,French Polynesia
+TF,French Southern Territories
+GA,Gabon
+GM,Gambia
+GE,Georgia
+DE,Germany
+GH,Ghana
+GI,Gibraltar
+GR,Greece
+GL,Greenland
+GD,Grenada
+GP,Guadeloupe
+GU,Guam
+GT,Guatemala
+GG,Guernsey
+GF,French Guiana
+GN,Guinea
+GW,Guinea-Bissau
+GY,Guyana
+HT,Haiti
+HM,Heard Island and McDonald Islands
+VA,Holy See (Vatican City State)
+HN,Honduras
+HU,Hungary
+IS,Iceland
+IN,India
+ID,Indonesia
+IR,"Iran, Islamic Republic of"
+IQ,Iraq
+IE,Ireland
+IM,Isle of Man
+IL,Israel
+IT,Italy
+JM,Jamaica
+JP,Japan
+JE,Jersey
+JO,Jordan
+KZ,Kazakhstan
+KE,Kenya
+KI,Kiribati
+KP,"Korea, Democratic People`s Republic of"
+KR,"Korea, Republic of"
+XK,"Kosovo, Republic of"
+KW,Kuwait
+KG,Kyrgyzstan
+LA,Lao People`s Democratic Republic
+LV,Latvia
+LB,Lebanon
+LS,Lesotho
+LR,Liberia
+LY,Libya
+LI,Liechtenstein
+LT,Lithuania
+LU,Luxembourg
+MG,Madagascar
+MW,Malawi
+MY,Malaysia
+MV,Maldives
+ML,Mali
+MT,Malta
+MH,Marshall islands
+MQ,Martinique
+MR,Mauritania
+MU,Mauritius
+YT,Mayotte
+MX,Mexico
+FM,"Micronesia, Federated States of"
+MD,"Moldova, Republic of"
+MC,Monaco
+MN,Mongolia
+ME,Montenegro
+MS,Montserrat
+MA,Morocco
+MZ,Mozambique
+MM,Myanmar
+NA,Namibia
+NR,Nauru
+NP,Nepal
+AN,Netherlands Antilles
+NL,Netherlands
+NC,New Caledonia
+NZ,New Zealand
+NI,Nicaragua
+NE,Niger
+NG,Nigeria
+NU,Niue
+NF,Norfolk Island
+F49,North Africa not allocated
+A29,North America not allocated
+A69,North Atlantic & Caribbean not allocated
+MK,"North Macedonia, Republic of "
+MP,Northern Mariana Islands
+NO,Norway
+W09,"World, not specified"
+O29,Oceania and Polar Regions not allocated
+OM,Oman
+S379,Other Near and Middle East not allocated
+PK,Pakistan
+PW,Palau
+PA,Panama
+PG,Papua New Guinea
+PY,Paraguay
+PE,Peru
+PH,Philippines
+PN,Pitcairn
+PL,Poland
+PT,Portugal
+PR,Puerto Rico
+QA,Qatar
+RE,Reunion
+RO,Romania
+RU,Russian Federation
+RW,Rwanda
+SH,Saint Helena
+PM,Saint Pierre and Miquelon
+WS,Samoa
+SM,San Marino
+ST,Sao Tome and Principe
+SA,Saudi Arabia
+SN,Senegal
+RS,Serbia
+SC,Seychelles
+SL,Sierra Leone
+SG,Singapore
+SX,Sint Maarten (Dutch part)
+SK,Slovakia
+SI,Slovenia
+SB,Solomon Islands
+SO,Somalia
+ZA,South Africa
+A79,South America not allocated
+GS,South Georgia and the South Sandwich Islands
+SS,South Sudan
+ES,Spain
+LK,Sri Lanka
+KN,Saint Kitts and Nevis
+LC,Saint Lucia
+VC,Saint Vincent and the Grenadines
+F69,Sub-Saharan Africa not allocated
+SD,Sudan
+SR,Suriname
+SE,Sweden
+CH,Switzerland
+SY,Syrian Arab Republic
+TW,"Taiwan, Province of China"
+TJ,Tajikistan
+TZ,"Tanzania, United Republic of"
+TH,Thailand
+TL,Timor-Leste
+TG,Togo
+TK,Tokelau
+TO,Tonga
+TT,Trinidad and Tobago
+TN,Tunisia
+TR,Türkiye
+TM,Turkmenistan
+TC,Turks and Caicos Islands
+TV,Tuvalu
+UG,Uganda
+UA,Ukraine
+AE,United Arab Emirates
+GB,United Kingdom
+US,United States
+VI,"Virgin Islands, U.S."
+UY,Uruguay
+PU,US Pacific Islands
+UZ,Uzbekistan
+VU,Vanuatu
+VE,"Venezuela, Bolivarian Republic"
+VN,Viet Nam
+WF,Wallis and Futuna
+PS,"Palestine, State of"
+EH,Western Sahara
+YE,Yemen
+ZM,Zambia
+ZW,Zimbabwe
+All_Reporting_Countries_Data,"All Reporting Countries, Data"
+S5,Central & South Asia
+S2,Eastern Asia
+S35,Gulf Arabian Countries
+E1,Europe
+F4,North Africa
+A2,North American countries
+A6,North Atlantic & Caribbean
+O2,Oceania and Polar Regions
+S37,Other Near and Middle East countries
+A7,South American countries
+F6,Sub-Saharan Africa
+W00,World

@@ -1,0 +1,49 @@
+,0
+W0_S1_G2121,Actual employers’ social contributions
+W0_S1_G21,Compensation of employees
+W0_S1_G23,Consumption of fixed capital
+W0_S1_G2811,Dividend expense
+W0_S1_G212,Employers' social contributions
+W0_S1_G273,Employment-related social benefits expense
+W0_S1_G2,Expense
+W0_S1_G2832,Expense on NI & SGS: Capital claims
+W0_S1_G28313,Expense on NI & SGS: Current claims
+W0_S1_G28312,Expense on NI & SGS: Fees
+W0_S1_G28311,Expense on NI & SGS: Premiums
+W0_S1_G283,"Expense on NI & SGS: Premiums, fees, & claims"
+W0_S1_G2831,"Expense on NI & SGS: Premiums, fees, & current claims"
+W0_S1_G282,Expense on other transfers
+W00_S1W_G2822,"Expense on other transfers, capital"
+W0_S1_G2821,"Expense on other transfers, current"
+W0_S1_G26,Grants expense
+W1_S13_G26,Grants expense to foreign govts
+W1_S13_G26K,Grants expense to foreign govts: capital
+W1_S13_G26C,Grants expense to foreign govts: current
+1A_S1_G26,Grants expense to int orgs
+1A_S1_G26K,Grants expense to int orgs: capital
+1A_S1_G26C,Grants expense to int orgs: current
+W2_S13_G26,Grants expense to other gen govt
+W2_S13_G26K,Grants expense to other gen govt: capital
+W2_S13_G26C,Grants expense to other gen govt: current
+W0_S1_G2122,Imputed employers’ social contributions
+W0_S1_G24,Interest expense
+W1_S1_G24,Interest expense to nonresidents
+W2_S13_G24,Interest expense to other gen gov
+W2_S1W_G24,Interest expense to residents other than gen govt
+W0_S1_G28,Other expense
+W0_S1_G2813,Property expense for investment income disbursements
+W0_S1_G281,Property expense other than interest
+W0_S1_G2815,Reinvested earnings on FDI
+W0_S1_G2814,Rent expense
+W0_S1_G272,Social assistance benefits expense
+W0_S1_G27,Social benefits expense
+W0_S1_G2M27A,Social benefits expense in cash
+W0_S1_G2M27B,Social benefits expense in kind
+W0_S1_G271,Social security benefits expense
+W0_S1_G25,Subsidies expense
+W2_S1L_G25,Subsidies expense to other sectors
+W2_S1KP_G25,Subsidies expense to private enterprises
+W2_S1K1_G25,Subsidies expense to public corporations
+W0_S1_G22,Use of goods and services
+W0_S1_G211,Wages and salaries
+W0_S1_G2812,Withdrawals of income from quasi-corporations
